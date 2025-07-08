@@ -34,7 +34,7 @@ The Satellite-Hybrid PM2.5 Monitor is a Python-based application designed to est
 *   **Meteorological Data:** NASA's MERRA-2 reanalysis data, available through the GES DISC data portal.
 
 ## System Architecture
-
+[Design](https://www.canva.com/design/DAGsmemCK-8/Tf72A6jRTq3nN5WTNNOoMA/edit?utm_content=DAGsmemCK-8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Installation
 
 1.  **Clone the repository:**
