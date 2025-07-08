@@ -71,5 +71,6 @@ The Satellite-Hybrid PM2.5 Monitor is a Python-based application designed to est
 
 4.  **Access the Application:** Open your web browser and navigate to the URL provided by Streamlit (typically `http://localhost:8501`).
 
-## Directory Structure (Example)
+## Contributing
 
+Contributions are highly encouraged! Please submit pull requests with clear descriptions of the changes, following the project's coding style and guidelines.
