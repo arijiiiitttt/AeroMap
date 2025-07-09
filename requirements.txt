@@ -9,3 +9,5 @@ geopandas
 folium
 streamlit
 joblib
+netCDF4
+xarray

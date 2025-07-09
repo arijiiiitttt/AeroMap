@@ -1,0 +1,9 @@
+env/
+*.pyc
+__pycache__/
+data/raw/cpcb_live_with_weather.csv
+data/processed/merged_data.csv
+models/random_forest.pkl
+outputs/india_pm_map.png
+outputs/validation_report.csv
+.DS_Store
