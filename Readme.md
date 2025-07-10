@@ -30,7 +30,7 @@ The Satellite-Hybrid PM2.5 Monitor is a Python-based application designed to est
 ## Data Sources
 
 *   **Satellite AOD:** INSAT-3D/3DR/3DS Aerosol Optical Depth data from MOSDAC ([https://www.mosdac.gov.in/](https://www.mosdac.gov.in/)).  Requires registration and data download.
-*   **Ground PM2.5 Data:** Central Pollution Control Board (CPCB) data (obtained through official channels or potentially via OpenAQ API).
+*   **Ground PM2.5 Data:** Central Pollution Control Board (CPCB) data (obtained through official channels or potentially via WAQI API).
 *   **Meteorological Data:** NASA's MERRA-2 reanalysis data, available through the GES DISC data portal.
 
 ## System Architecture
